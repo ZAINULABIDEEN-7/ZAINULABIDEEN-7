@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ZAINULABIDEEN-7/ZAINULABIDEEN-7/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm ZAIN UL ABIDEEN</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
